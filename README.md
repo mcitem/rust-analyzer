@@ -1,3 +1,7 @@
+[v0.3.2319](https://github.com/rust-lang/rust-analyzer/releases/tag/2025-02-24)
+
+rust 1.77.2 vscode extension fork (motify extension id)
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/rust-lang/rust-analyzer/master/assets/logo-wide.svg"
@@ -38,10 +42,10 @@ https://rust-lang.zulipchat.com/#narrow/stream/185405-t-compiler.2Frust-analyzer
 
 ## Quick Links
 
-* Website: https://rust-analyzer.github.io/
-* Metrics: https://rust-analyzer.github.io/metrics/
-* API docs: https://rust-lang.github.io/rust-analyzer/ide/
-* Changelog: https://rust-analyzer.github.io/thisweek
+- Website: https://rust-analyzer.github.io/
+- Metrics: https://rust-analyzer.github.io/metrics/
+- API docs: https://rust-lang.github.io/rust-analyzer/ide/
+- Changelog: https://rust-analyzer.github.io/thisweek
 
 ## License
 

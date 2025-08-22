@@ -6,7 +6,7 @@
     "icon": "icon.png",
     "version": "0.5.0-dev",
     "releaseTag": null,
-    "publisher": "rust-lang",
+    "publisher": "rust-lang1772",
     "repository": {
         "url": "https://github.com/rust-lang/rust-analyzer.git",
         "type": "git"

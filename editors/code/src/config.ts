@@ -21,7 +21,7 @@ type ShowStatusBar =
       };
 
 export class Config {
-    readonly extensionId = "rust-lang.rust-analyzer";
+    readonly extensionId = "rust-lang1772.rust-analyzer";
     configureLang: vscode.Disposable | undefined;
 
     readonly rootSection = "rust-analyzer";
